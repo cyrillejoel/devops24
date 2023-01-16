@@ -12,6 +12,7 @@
  docker images
  docker run -it centos
  docker ps
+     I am kim i just cloned this repo to add my contrubution.
 
 
 
